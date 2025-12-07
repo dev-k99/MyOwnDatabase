@@ -1,0 +1,11 @@
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\bin\Debug\net8.0\MyOwnDatabase.deps.json
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\bin\Debug\net8.0\MyOwnDatabase.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\bin\Debug\net8.0\MyOwnDatabase.pdb
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.AssemblyInfoInputs.cache
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.AssemblyInfo.cs
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.csproj.CoreCompileInputs.cache
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\refint\MyOwnDatabase.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.pdb
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\ref\MyOwnDatabase.dll

@@ -1,0 +1,143 @@
+[
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "CreateTable",
+    "RelativePath": "api/database/create-table",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "columns",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "Delete",
+    "RelativePath": "api/database/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "table",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "where",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "Insert",
+    "RelativePath": "api/database/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "table",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "values",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "Join",
+    "RelativePath": "api/database/join",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "table1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "table2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "onCondition",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "Select",
+    "RelativePath": "api/database/select",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "table",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "columns",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "where",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyOwnDatabaseApi.Controllers.DatabaseController",
+    "Method": "Update",
+    "RelativePath": "api/database/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "table",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "values",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      },
+      {
+        "Name": "where",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

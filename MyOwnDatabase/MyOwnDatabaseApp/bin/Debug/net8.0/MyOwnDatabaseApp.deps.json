@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyOwnDatabaseApp/1.0.0": {
+        "dependencies": {
+          "MyOwnDatabase": "1.0.0"
+        },
+        "runtime": {
+          "MyOwnDatabaseApp.dll": {}
+        }
+      },
+      "MyOwnDatabase/1.0.0": {
+        "runtime": {
+          "MyOwnDatabase.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyOwnDatabaseApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyOwnDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
