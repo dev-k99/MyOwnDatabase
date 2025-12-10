@@ -16,3 +16,4 @@ C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApp\obj\D
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApp\obj\Debug\net8.0\MyOwnDatabaseApp.pdb
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApp\obj\Debug\net8.0\MyOwnDatabaseApp.genruntimeconfig.cache
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApp\obj\Debug\net8.0\ref\MyOwnDatabaseApp.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApp\obj\Debug\net8.0\MyOwnDatabaseApp.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debu
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\refint\MyOwnDatabase.dll
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.pdb
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\ref\MyOwnDatabase.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase\obj\Debug\net8.0\MyOwnDatabase.sourcelink.json

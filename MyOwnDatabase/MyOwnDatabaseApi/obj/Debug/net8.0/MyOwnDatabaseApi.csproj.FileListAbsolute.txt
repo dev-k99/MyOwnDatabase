@@ -35,3 +35,4 @@ C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApi\obj\D
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApi\obj\Debug\net8.0\MyOwnDatabaseApi.pdb
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApi\obj\Debug\net8.0\MyOwnDatabaseApi.genruntimeconfig.cache
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApi\obj\Debug\net8.0\ref\MyOwnDatabaseApi.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabaseApi\obj\Debug\net8.0\MyOwnDatabaseApi.sourcelink.json

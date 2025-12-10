@@ -100,3 +100,4 @@ C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase.Tests\ob
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase.Tests\obj\Debug\net8.0\MyOwnDatabase.Tests.pdb
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase.Tests\obj\Debug\net8.0\MyOwnDatabase.Tests.genruntimeconfig.cache
 C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase.Tests\obj\Debug\net8.0\ref\MyOwnDatabase.Tests.dll
+C:\Users\kwanele\Documents\PROJECTS\MyOwnDb\MyOwnDatabase\MyOwnDatabase.Tests\obj\Debug\net8.0\MyOwnDatabase.Tests.sourcelink.json
