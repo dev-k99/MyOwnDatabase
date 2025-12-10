@@ -17,7 +17,7 @@ In-Memory Storage: Uses dictionaries for fast lookups.
 C# (.NET 8.0)
 LINQ for query operations
 xUnit for unit tests
-Swagger for API docs (in demo app)
+Swagger for API docs 
 
 ## Project Flow
 Storage Layer: Database class manages tables as Dictionary<string, Table>, tables have List<Row>, rows are Dictionary<string, object>.
