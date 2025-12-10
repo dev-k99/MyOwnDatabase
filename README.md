@@ -10,8 +10,8 @@ Transaction Placeholders: Begin/Commit/Rollback (extendable for ACID).
 In-Memory Storage: Uses dictionaries for fast lookups.
 
 ## API SCREENSHOTS
-![API-test1](screenshots/API-test1.png)
-![Table Created-Test](screenshots/Table-created.png)
+![API-test1](MyOwnDatabase/screenshots/API-test1.png)
+![Table Created-Test](MyOwnDatabase/screenshots/Table-created.png)
 
 ## Technologies Used
 C# (.NET 8.0)
@@ -38,11 +38,11 @@ Run MyOwnDatabaseApp (F5) for console demos.
 
 ## Unit Tests
 xUnit tests in MyOwnDatabase.Tests — 100% coverage for CRUD and JOIN.
-![xUnits Tests](screenshots/Tests.png)
+![xUnits Tests](MyOwnDatabase/screenshots/Tests.png)
 
 ## Console OUTPUT
 Created a simple Console App to output Tests to the Console
-![Console Tests](screenshots/Console-Test.png)
+![Console Tests](MyOwnDatabase/screenshots/Console-Test.png)
 
 ## Deployment Status
 I ran into temporary infrastructure issues with Azure/Render during final deployment (Docker Desktop + billing quirks), but the API is fully containerized and works perfectly locally and in any CI/CD environment.
